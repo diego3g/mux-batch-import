@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es2017",                                
+    "module": "commonjs",                           
+    "allowJs": true,  
+    "strict": true,                                 
+    "esModuleInterop": true,                        
+    "resolveJsonModule": true,
+    "skipLibCheck": true,                           
+    "forceConsistentCasingInFileNames": true        
+  }
+}
